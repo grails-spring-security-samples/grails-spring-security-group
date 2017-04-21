@@ -1,4 +1,4 @@
-package grails.spring.security.group
+package demo
 
 class UrlMappings {
 

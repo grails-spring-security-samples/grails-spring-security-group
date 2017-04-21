@@ -1,5 +1,8 @@
-package grails.spring.security.group
+package demo
 
+import groovy.transform.CompileStatic
+
+@CompileStatic
 class BootStrap {
 
     def init = { servletContext ->
